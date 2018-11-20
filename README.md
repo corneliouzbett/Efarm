@@ -1,2 +1,2 @@
 # Efarm
-An android application 
+An android application for farmers
